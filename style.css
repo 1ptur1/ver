@@ -204,10 +204,16 @@ h2, h3 {
 }
 .automated-title {
     margin: 120px 0 21px 0;
+    font-size: 42px;
+    font-weight: 400;
 }
 .automated-text {
     width: 640px;
     font-size: 18px;
+}
+.p{
+    font-size: 42px;
+    font-weight: 400;
 }
 .automated-block {
     display: flex;
